@@ -168,7 +168,7 @@ form button:hover{
   /* color: #ff0000; */
 }
 .urls-area .data li a:hover{
-  color: #20B2AA;
+  color: #ff0000;
   text-decoration: underline;
 }
 .urls-area .data li:last-child a:hover{
